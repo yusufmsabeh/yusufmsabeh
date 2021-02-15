@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @YOOUMS
+- 👀 I’m interested in video gamies ,coding, game devolpment
+- 🌱 I’m currently learning python , making discord bor using python
+- 📫 How to reach me Discord:YOUMS#6740 , Facebook: Yousef Abu Misbah
+
+<!---
+YOOUMS/YOOUMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
