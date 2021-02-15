@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YOOUMS
-- 👀 I’m interested in video gamies ,coding, game devolpment
+- 👀 I’m interested in video gamies ,coding, game development
 - 🌱 I’m currently learning python , making discord bor using python
 - 📫 How to reach me Discord:YOUMS#6740 , Facebook: Yousef Abu Misbah
 
