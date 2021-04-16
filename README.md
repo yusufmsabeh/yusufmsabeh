@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YOOUMS
 - 👀 I’m interested in video games ,coding and game development
-- 🌱 I’m currently learning python , making discord bot using python
+- 🌱 I’m currently learning python , making discord bot using discord.py
 - 📫 How to reach me Discord:YOUMS#6740 , Facebook: Yousef Abu Msabeh
 
 <!---
