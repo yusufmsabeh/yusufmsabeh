@@ -69,8 +69,10 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img src="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YOOUMS)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="1999AZZAR :: Top Langs" /></a>
+        <a href="https://github.com/YOOUMS/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          </a>
         </p>
         <p align="center">
           <a href="https://github.com/YOOUMS/">
