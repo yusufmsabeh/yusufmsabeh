@@ -16,7 +16,6 @@
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-     
       <a href="https://fb.com/1999AZZAR](https://www.facebook.com/profile.php?id=100004647134829" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>      
