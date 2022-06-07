@@ -16,15 +16,15 @@
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://fb.com/1999AZZAR](https://www.facebook.com/profile.php?id=100004647134829" target="blank"><img align="center"
+      <a href="https://www.facebook.com/profile.php?id=100004647134829" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>      
-      <a href="https://mailto:yussef.msabeh@gamil.com" target="blank"><img align="center"
+      <a href="https://mailto:yussef.msabeh@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="[https://instagram.com/azzar_budiyanto](https://www.instagram.com/yooums/)" target="blank"><img align="center"
+      <a href="https://www.instagram.com/yooums" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://wa.me/+972595345474" target="blank"><img align="center"
