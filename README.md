@@ -17,10 +17,9 @@
     <p align="center">
       <br/>
      
-      <a href="[https://fb.com/1999AZZAR](https://www.facebook.com/profile.php?id=100004647134829)" target="blank"><img align="center"
+      <a href="https://fb.com/1999AZZAR](https://www.facebook.com/profile.php?id=100004647134829" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-      
+         alt="azzar" height="30"/></a>      
       <a href="https://mailto:yussef.msabeh@gamil.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
@@ -29,11 +28,9 @@
       <a href="[https://instagram.com/azzar_budiyanto](https://www.instagram.com/yooums/)" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-    
       <a href="https://wa.me/+972595345474" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-    
       <a href="https://twitter.com/YOOUMS" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
