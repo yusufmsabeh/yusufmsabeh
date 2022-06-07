@@ -55,7 +55,7 @@
   <a href="github.com/YOOUMS" target="blank"><img align="center" 
      src="https://badges.pufler.dev/updated/YOOUMS/YOOUMS?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
      alt="updated" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="github.com/YOOUMS" target="blank"><img align="center" 
      src="https://badges.pufler.dev/repos/YOOUMS/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
      alt="repos" /></a>
  </p>
@@ -73,7 +73,7 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOOUMS&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/YOOUMS/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=YOOUMS&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOOUMS&theme=gruvbox&hide_border=true" />
           </a>
