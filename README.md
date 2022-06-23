@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Yusuf</h1>
-<h4 align="center">engineering students at Al-Azhar university</h4>
+<h4 align="center">engineering student at Al-Azhar university</h4>
 </div>
 
 <div align="center">
