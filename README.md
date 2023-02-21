@@ -4,10 +4,8 @@
 
 <br/>
 <p align="center">
-  <br>
   <samp>
  Learning Back-End Developer (express.js).
-
 </samp>
 
 </p>
