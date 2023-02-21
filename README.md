@@ -10,5 +10,3 @@
 
 </p>
 
-
-<details align="center">
