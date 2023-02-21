@@ -2,7 +2,7 @@
   <br>
   <samp>
     <b>Yusuf Msabeh</b>.
-    <br>I'm a Computer Engineering.<br>
+    <br>Engineering student at Al-Azhar university.<br>
 
 </samp>
 
