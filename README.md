@@ -5,7 +5,7 @@
 <br/>
 <p align="center">
   <samp>
- Learning Back-End Developer (express.js).
+ Learning Back-End development (express.js).
 </samp>
 
 </p>
