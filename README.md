@@ -6,7 +6,7 @@
 <p align="center">
   <br>
   <samp>
-    <br> Learning Back-End Developer (express.js).<br>
+ Learning Back-End Developer (express.js).
 
 </samp>
 
