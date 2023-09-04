@@ -5,7 +5,7 @@
 <br/>
 <p align="center">
   <samp>
- Learning Back-End development (express.js).
+ Back-end developer with Express.js && Nest.js.
 </samp>
 
 </p>
